@@ -1,0 +1,45 @@
+
+
+div {
+    text-transform: uppercase;
+	box-sizing: border-box;
+	padding: 20px;
+ }
+
+.header {
+	background: #ff9c56;
+}
+
+.sidebar {
+	background: #FFBE56;
+}
+
+.main-content {
+	background: #88ABC2;
+	color: #fff;
+}
+
+.footer {
+	background: #AAD637;
+}
+
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.sidebar {
+	float: left;
+	width: 250px;
+	height: 300px;
+}
+
+.main-content {
+	float: left;
+	width: 734px;
+	height: 300px;
+}
+
+.footer {
+	clear: both;
+}
